@@ -1,0 +1,5 @@
+*.class
+.idea/
+/coderetreat-2015-ws
+/target
+*.iml
